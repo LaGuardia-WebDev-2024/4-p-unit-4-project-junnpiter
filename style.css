@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.section {
+    min-height: 100vh; /* Ensure sections are tall enough to scroll */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: background-color 0.5s ease; /* Smooth transition for background color */
+}
+
+.purple-bg {
+    background-size:cover;
+    background-image:url(https://64.media.tumblr.com/c31416a19674b7d0e9d4550a68d4b55a/704428acec79bf55-56/s540x810/8ad73106d9df3812604ca68cfa36613e26ef455a.gif);
+    
+}
+
+.blue-bg {
+    Background-size:cover;
+    background-image:url(https://i.ytimg.com/vi/YTmQi9LTxQ0/maxresdefault.jpg);
+    font-family: "Orbitron";
+
+}
+
+
+.green-bg {
+    background-size:cover;
+    background-image:url(https://static.wikia.nocookie.net/marvel-rivals/images/a/ae/Hall_of_Djalia_artwork.png/revision/latest?cb=20250205130241);
+}
+
+.red-bg {
+    background-size:cover;
+    background-image:url(https://images.gram.pl/news/fmjx20241126142411250vhig.jpg);
+}
+
+.pink-bg {
+    background-size:cover;
+    background-image:url(https://static.wikia.nocookie.net/marvel-rivals/images/c/ce/Heart_Of_Heaven_image.png/revision/latest?cb=20251001053734);
+}
