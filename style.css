@@ -29,14 +29,17 @@ body {
 .green-bg {
     background-size:cover;
     background-image:url(https://static.wikia.nocookie.net/marvel-rivals/images/a/ae/Hall_of_Djalia_artwork.png/revision/latest?cb=20250205130241);
+    font-family: "Asimovian";
 }
 
 .red-bg {
     background-size:cover;
     background-image:url(https://images.gram.pl/news/fmjx20241126142411250vhig.jpg);
+    font-family: "DM Serif Text"
 }
 
 .pink-bg {
     background-size:cover;
     background-image:url(https://static.wikia.nocookie.net/marvel-rivals/images/c/ce/Heart_Of_Heaven_image.png/revision/latest?cb=20251001053734);
+    font-family:"Protest Revolution"
 }
